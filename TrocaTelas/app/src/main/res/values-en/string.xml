@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeScreen</string>
+    <string name="lancamento">Enter</string>
+    <string name="sair">Exit</string>
+    <string name="cod">Cod:</string>
+    <string name="qtd">Amount:</string>
+    <string name="valor">Price:</string>
+    <string name="msg_erro_cod">Code must be filled.</string>
+</resources>

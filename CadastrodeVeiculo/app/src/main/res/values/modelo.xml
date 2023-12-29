@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modelo">
+        <item>Uno</item>
+        <item>Strada</item>
+        <item>Ka</item>
+        <item>Fiesta</item>
+        <item>March</item>
+        <item>Frontier</item>
+        <item>Sportage</item>
+        <item>Sorento</item>
+    </string-array>
+</resources>

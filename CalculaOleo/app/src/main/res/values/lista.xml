@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proporcoes">
+        <item>40:1-Motor Barco Usado</item>
+        <item>20:1-Motor Barco Novo</item>
+        <item>25:1-Moto Serra</item>
+        <item>20:1-Moto com Motor 2T</item>
+
+    </string-array>
+</resources>

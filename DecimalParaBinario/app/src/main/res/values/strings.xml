@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decimal Para Binario</string>
+    <string name="tvNumero">Número Decimal:</string>
+    <string name="btCalcular">Calcular:</string>
+    <string name="tvResultado">Resultado:</string>
+    <string name="msg_erro_numero">O número deve ser preenchido.</string>
+</resources>

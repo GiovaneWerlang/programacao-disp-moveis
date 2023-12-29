@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Decimal to Binary</string>
+    <string name="tvNumero">Decimal Number:</string>
+    <string name="btCalcular">Calculate:</string>
+    <string name="tvResultado">Result:</string>
+    <string name="msg_erro_numero">The number must be filled.</string>
+</resources>
